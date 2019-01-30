@@ -17,3 +17,9 @@ https://towardsdatascience.com/review-dssd-deconvolutional-single-shot-detector-
 ## Tensorflow Object Detection API
 
 https://github.com/tensorflow/models/tree/master/research/object_detection
+
+### tutorial 
+
+https://www.kdnuggets.com/2018/03/google-tensorflow-object-detection-api-the-easiest-way-implement-image-recognition.html
+
+Here mAP (mean average precision) is the product of precision and recall on detecting bounding boxes. It’s a good combined measure for how sensitive the network is to objects of interest and how well it avoids false alarms. The higher the mAP score, the more accurate the network is but that comes at the cost of execution speed.
