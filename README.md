@@ -44,4 +44,8 @@ the training set is distinguished by a large  imbalance  between  the  number  o
 Unsurprisingly,  this is not a new challenge and a stan-dard solution, originally called bootstrapping
 (and now of-ten called hard negative mining), has existed for at least 20 years.
 
+https://joshua19881228.github.io/2016-11-03-OHEM/
+
+http://abhinavsh.info/
+
 
