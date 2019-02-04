@@ -36,5 +36,12 @@ By using SSD, we only need to take one single shot to detect multiple objects wi
 ### gen tfrecord 
 https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/preparing_inputs.md
 
+### notest
+https://arxiv.org/pdf/1604.03540.pdf
+
+the training set is distinguished by a large  imbalance  between  the  number  of  annotated  objects and the number of background examples (image regions not belonging to any object class of interest)
+
+Unsurprisingly,  this is not a new challenge and a stan-dard solution, originally called bootstrapping
+(and now of-ten called hard negative mining), has existed for at least 20 years.
 
 
