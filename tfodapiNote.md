@@ -13,6 +13,8 @@ Framework
   - https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/defining_your_own_model.md
 + Freezing Model
   - https://cv-tricks.com/how-to/freeze-tensorflow-models/
+  - https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/exporting_models.md
+  - 
 
 Q n A
 ---
