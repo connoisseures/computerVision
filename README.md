@@ -41,6 +41,10 @@ http://michaelryoo.com/papers/iros12_joung.pdf
 
 http://www.cs.toronto.edu/~jepson/csc2503/recognition.pdf
 
++ Decoupled Classification Refinement
+  - https://github.com/bowenc0221/Decoupled-Classification-Refinement
+  - https://arxiv.org/pdf/1810.04002.pdf
+
 ## DSSD
 
 https://arxiv.org/abs/1701.06659
