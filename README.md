@@ -95,4 +95,7 @@ https://joshua19881228.github.io/2016-11-03-OHEM/
 
 http://abhinavsh.info/
 
+tools
+---
++ https://trac.ffmpeg.org/wiki/Slideshow
 
