@@ -23,3 +23,14 @@ Q n A
 ---
 + manage restore session 
   - https://web.stanford.edu/class/cs20si/2017/lectures/notes_05.pdf
++ Training object detection model with multiple training sets 
+  - https://github.com/tensorflow/models/issues/3031
+```
+train_input_reader: {
+  tf_record_input_reader {
+    input_path: ["PATH_TO_BE_CONFIGURED/train_a.record", 
+                 "PATH_TO_BE_CONFIGURED/train_b.record"]
+  }
+  label_map_path: "PATH_TO_BE_CONFIGURED/label_map.pbtxt"
+}
+```
