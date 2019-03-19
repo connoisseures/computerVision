@@ -24,6 +24,10 @@ Basic
 + https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9
 + http://cs231n.github.io/neural-networks-3/
 
+Tutorial
+---
++ https://www.tensorflow.org/alpha/tutorials/images/transfer_learning
+
 Q n A
 ---
 + manage restore session 
