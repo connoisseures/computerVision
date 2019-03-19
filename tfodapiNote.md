@@ -18,7 +18,12 @@ Framework
   - Choose a training regime that does not ruin the pre-trained weights, for example, **a lower learning rate** than for training from scratch.
   - https://www.tensorflow.org/hub/fine_tuning
 + https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/configuring_jobs.md  
-  
+
+Basic
+---
++ https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9
++ http://cs231n.github.io/neural-networks-3/
+
 Q n A
 ---
 + manage restore session 
