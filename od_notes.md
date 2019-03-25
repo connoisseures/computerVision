@@ -3,7 +3,8 @@ Object Detector
 
 SSD
 ---
-SSDs do not need an initial object proposals generation step. This makes it, usually, faster and more efficient than two-stage approaches such as Faster R-CNN, although it sacrifices performance for detection of small objects to gain speed.
++ SSDs do not need an initial object proposals generation step. This makes it, usually, faster and more efficient than two-stage approaches such as Faster R-CNN, although it sacrifices performance for detection of small objects to gain speed.
++ Also, deconvolutional layers are used in the detection part to increase the resolution of the feature maps produced by the feature extractor. This would theoretically allow for better detection of small objects by providing additional large-scale context.
 + https://medium.com/@amadeusw6/variations-of-ssd-understanding-deconvolutional-single-shot-detectors-c0afb8686d03
 
 ## notes 
