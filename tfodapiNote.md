@@ -28,6 +28,9 @@ Tutorial
 ---
 + https://www.tensorflow.org/alpha/tutorials/images/transfer_learning
 
++ Proto buffer
+  - https://developers.google.com/protocol-buffers/docs/proto#simple
+
 Q n A
 ---
 + manage restore session 
