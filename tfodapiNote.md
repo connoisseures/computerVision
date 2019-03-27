@@ -14,6 +14,10 @@ Framework
 + Freezing Model
   - https://cv-tricks.com/how-to/freeze-tensorflow-models/
   - https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/exporting_models.md
+  - https://github.com/tensorflow/tensorflow/blob/master/tensorflow/tools/graph_transforms/README.md#introduction
+  ```
+  bazel build tensorflow/tools/graph_transforms:transform_graph
+  ```
 +fine tune 
   - Choose a training regime that does not ruin the pre-trained weights, for example, **a lower learning rate** than for training from scratch.
   - https://www.tensorflow.org/hub/fine_tuning
