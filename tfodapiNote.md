@@ -18,6 +18,7 @@ Framework
   ```
   bazel build tensorflow/tools/graph_transforms:transform_graph
   ```
+  - http://laid.delanover.com/how-to-freeze-a-graph-in-tensorflow/
 +fine tune 
   - Choose a training regime that does not ruin the pre-trained weights, for example, **a lower learning rate** than for training from scratch.
   - https://www.tensorflow.org/hub/fine_tuning
