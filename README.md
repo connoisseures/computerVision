@@ -100,3 +100,4 @@ tools
 + https://trac.ffmpeg.org/wiki/Slideshow
 + http://hamelot.io/visualization/using-ffmpeg-to-convert-a-set-of-images-into-a-video/
 
+https://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/
