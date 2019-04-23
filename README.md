@@ -99,5 +99,10 @@ tools
 ### ffmpeg
 + https://trac.ffmpeg.org/wiki/Slideshow
 + http://hamelot.io/visualization/using-ffmpeg-to-convert-a-set-of-images-into-a-video/
++ https://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/
++ https://www.cnblogs.com/xiaohanyi/p/5996009.html
++ https://manpages.debian.org/experimental/ffmpeg/ffmpeg.1.en.html
+```
+ffmpeg -i $SRC -c:v libx264 -g 30 -bf 0 -refs 1 -pix_fmt yuv420p -strict -2 $DST 
+```
 
-https://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/
