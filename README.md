@@ -76,7 +76,10 @@ https://towardsdatascience.com/is-google-tensorflow-object-detection-api-the-eas
 https://medium.com/@sh.tsang
 
 
+### installation 
 
+Manual protobuf-compiler installation and usage
+- https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md
 
 ## Tensorflow ODAPI
 ### gen tfrecord 
