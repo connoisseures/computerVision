@@ -12,4 +12,8 @@ img2[:,:,1] = gray
 img2[:,:,2] = gray
 cv2.imwrite('10524.jpg', img2)
 ```
-  + 
+### color conversion
++ https://stackoverflow.com/questions/16443553/opencv-python-convert-rgb-to-ycrcb?rq=1 
++ https://docs.opencv.org/3.3.0/de/d25/imgproc_color_conversions.html
++ https://www.learnopencv.com/color-spaces-in-opencv-cpp-python/
++ https://stackoverflow.com/questions/48125095/convert-rgb-image-to-yuv-and-ycbcr-color-space-image-in-opencv-python
