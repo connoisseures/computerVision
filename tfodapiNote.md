@@ -51,3 +51,16 @@ train_input_reader: {
   label_map_path: "PATH_TO_BE_CONFIGURED/label_map.pbtxt"
 }
 ```
+
++ modify import files
+
+```bash
+        # for feature extractor 
+        modified:   ../builders/model_builder.py
+        # for frozen model 
+        modified:   ../core/post_processing.py
+        modified:   ../export_inference_graph.py
+        modified:   ssd_squeezenet_feature_extractor.py
+        modified:   ../../slim/nets/squeezenet.py
+
+```
