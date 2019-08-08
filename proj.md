@@ -18,4 +18,6 @@ Projects
     1. a deep neural network is trained to take each of these areas as input and output a belief distribution over the ontology of scene functional areas
     2. the final output of our system is visualized. Bounding boxes are used to indicate the detected location of the functional area and different color is used to indicate the function predicted.
 
++ YOLO
+    - https://pjreddie.com/darknet/yolo/
 
